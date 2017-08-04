@@ -5,4 +5,4 @@ A tweak that demos how to color the IGInsetLabel that Instagram Uses for the pro
 Do whatever you want just follow the guidelines of the license 
 
 # Screenshot!
-![Screenshot](https://https://github.com/iKilledAppl3/IGProfileNavTextColorer/blob/master/screenshot.jpg?raw=true)
+![Screenshot](https://github.com/iKilledAppl3/IGProfileNavTextColorer/blob/master/screenshot.jpg?raw=true)
