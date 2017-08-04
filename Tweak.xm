@@ -15,6 +15,6 @@
 	//call the original function for both!
 	%orig(arg1);
 	//call its color property and set the color!
-	self.textColor = [UIColor blueColor]; // can any uicolor you want :P
+	self.textColor = [UIColor blueColor]; // you can any uicolor you want :P
 }
 %end
