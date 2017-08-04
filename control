@@ -1,0 +1,9 @@
+Package: com.ikilledappl3.igtest
+Name: IGProfileNavTextColorer
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A quick tweak to demonstrate how to colorize the IGInsetLabel used for the nav bar.
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks

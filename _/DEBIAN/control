@@ -1,0 +1,10 @@
+Package: com.ikilledappl3.igtest
+Name: IGTest
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iKilledAppl3
+Author: iKilledAppl3
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 136
